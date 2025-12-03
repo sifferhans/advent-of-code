@@ -4505,7 +4505,7 @@ R7
 """
 ```
 
-## Section
+## Part 1
 
 ```elixir
 input
@@ -4519,6 +4519,8 @@ end)
 |> Enum.frequencies()
 |> Map.get(0)
 ```
+
+## Part 2
 
 ```elixir
 input
